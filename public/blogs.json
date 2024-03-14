@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_image": "https://img.freepik.com/free-photo/top-view-workspace-with-copy-space-notebook-top-agenda_23-2148430806.jpg?t=st=1710395623~exp=1710399223~hmac=1f372163ee8bb5d16a32639f3769aa251e1e02e2f76b05ea29fcaf8614c9447a&w=996",
+      "title": "The Journey of a Dreamer",
+      "author": "Alex Johnson",
+      "author_img": "https://img.freepik.com/free-photo/lovely-woman_144627-41813.jpg?t=st=1710396644~exp=1710400244~hmac=8e73bbb8fd2240f7a59928fb079c170ef682df74d0d054855a76781bb4df1bfc&w=996",
+      "posted_date": "2024-03-13",
+      "reading_time": 12,
+      "hashtags": ["dreams", "inspiration", "adventure"]
+    },
+    {
+      "id": 2,
+      "cover_image": "https://img.freepik.com/free-photo/technology-communication-icons-symbols-concept_53876-120314.jpg?w=826&t=st=1710395918~exp=1710396518~hmac=af27b00d6e2ac9c3e9856ec12e0e4dcc17bb911ed3a4f5b80c17116cce409f05",
+      "title": "Beyond the Stars",
+      "author": "Emily Watson",
+      "author_img": "https://img.freepik.com/free-photo/woman-sitting-writing-paper-cafe-terrace-white-shirt-daytime_176474-4905.jpg?t=st=1710396716~exp=1710400316~hmac=41da937cbdd5ada09df28f0612b7f798b4393dfc9451597cc9cf06c38d2bc2fc&w=996",
+      "posted_date": "2024-03-12",
+      "reading_time": 8,
+      "hashtags": ["space", "exploration", "science"]
+    },
+    {
+      "id": 3,
+      "cover_image": "https://img.freepik.com/free-photo/flat-lay-workstation-with-copy-space-laptop_23-2148430867.jpg?w=1060&t=st=1710396080~exp=1710396680~hmac=ca6cefc68a5600872ce4e5c978bf57ccd1dcf2b28189e1bb9bc45e59b7e06c57",
+      "title": "The Art of Cooking",
+      "author": "Michael Lee",
+      "author_img": "https://img.freepik.com/free-photo/portrait-concentrated-redhead-man-writing-notebook_171337-9861.jpg?t=st=1710396761~exp=1710400361~hmac=a66f1d5918688fa4e2d8ce85aa93c6f5375c9e5b66d20fa2f67a9856e2549a6d&w=996",
+      "posted_date": "2024-03-11",
+      "reading_time": 15,
+      "hashtags": ["food", "recipes", "cooking"]
+    },
+    {
+      "id": 4,
+      "cover_image": "https://img.freepik.com/free-photo/top-view-desk-concept-with-coffee_23-2148604932.jpg?w=996&t=st=1710396152~exp=1710396752~hmac=979bcbaec2268ac6eeec69f42f80c6d978c4a8babe70c5810eeb1030b3326c0a",
+      "title": "In the Shadow of Giants",
+      "author": "Sarah Thompson",
+      "author_img": "https://img.freepik.com/free-photo/portrait-young-bearded-man-reading-book_114579-79011.jpg?t=st=1710396797~exp=1710400397~hmac=9f4a801cc33fe91bd98554642143391cdfcbf84f843f38b7c875d957d50859e6&w=360",
+      "posted_date": "2024-03-10",
+      "reading_time": 20,
+      "hashtags": ["history", "biography", "leadership"]
+    },
+    {
+      "id": 5,
+      "cover_image": "https://img.freepik.com/free-photo/online-blog_53876-123696.jpg?w=996&t=st=1710396196~exp=1710396796~hmac=c016c998dd7e18ea120a32b879624b6986a124e9de14b6bc9c3626ac92b610d3",
+      "title": "The Power of Imagination",
+      "author": "David Rodriguez",
+      "author_img": "https://img.freepik.com/free-photo/side-view-man-working-late-night_23-2150281047.jpg?t=st=1710396835~exp=1710400435~hmac=431f8ad82c7797fa6d742b9edbf18809be49a031ac02e7752c8813ce7f3e6481&w=360",
+      "posted_date": "2024-03-09",
+      "reading_time": 10,
+      "hashtags": ["imagination", "creativity", "mind"]
+    }
+  ]
+  
